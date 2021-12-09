@@ -1,0 +1,1 @@
+This is a password generator that allows you to click a button and a password will be automatically generated for you. You can 
