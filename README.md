@@ -1,1 +1,3 @@
-This is a password generator that allows you to click a button and a password will be automatically generated for you. You can 
+This is a password generator that allows you to click a button and a password will be automatically generated for you. You can choose to make a password with lowercase/uppercase letters, numbers and special characters ranging from 8 up to 128 characters. You will be presented with these options, you can choose to say yes or no to each category with a "y" or "n". 
+
+https://flamemygame.github.io/password-generator/
